@@ -27,3 +27,7 @@ ms.locfileid: "38727532"
 * DES (データ暗号化アルゴリズム)
 * 3DES (トリプル データ暗号化アルゴリズム)
 * MD5 (Message Digest 5)
+
+### <a name="tls1"></a>どのように TLS 1.2 を Windows 7 および Windows 8.1 で有効化しますか？
+
+[!INCLUDE [tls 1.2](vpn-gateway-tls-include.md)]
